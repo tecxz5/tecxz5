@@ -28,11 +28,11 @@
   - Клавиатура ноутбука
 4. Рабочие машины
   - Ноут на пентиуме с 8 гб ОЗУ
-  - <a href="https://valid.x86.fr/t00aa2" target="_blank">
+  - <a target="_blank" href="https://valid.x86.fr/t00aa2">
     <img src="https://valid.x86.fr/cache/banner/t00aa2-6.png" alt="Toshiba Satellite C850-BQK">
     </a>
   - Ноут на i3 с 8 гб ОЗУ (ходят слухи что можно поставить 16 гб)  
-    <a href="https://valid.x86.fr/yyvt3w" target="_blank">
+    <a target="_blank" href="https://valid.x86.fr/yyvt3w">
     <img src="https://valid.x86.fr/cache/banner/yyvt3w-6.png" alt="Samsung NP3007Z-SO1RU">
     </a>
   - (*В БУДУЩЕМ*) Ноут на рязани с эртеха 4060 и 16 гб ОЗУ
