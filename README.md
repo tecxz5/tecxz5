@@ -28,8 +28,8 @@
   - Еще одна механика на красных свичах за 2к рублей 
   - Клавиатура ноутбука
 4. Рабочие машины
-  - Ноут на пентиуме с 8 гб ОЗУ
-  - <a target="_blank" href="https://valid.x86.fr/t00aa2">
+  - Ноут на пентиуме с 8 гб ОЗУ  
+    <a target="_blank" href="https://valid.x86.fr/t00aa2">
     <img src="https://valid.x86.fr/cache/banner/t00aa2-6.png" alt="Toshiba Satellite C850-BQK">
     </a>
   - Ноут на i3 с 8 гб ОЗУ (ходят слухи что можно поставить 16 гб)  
