@@ -36,7 +36,6 @@
     <a target="_blank" href="https://valid.x86.fr/yyvt3w">
     <img src="https://valid.x86.fr/cache/banner/yyvt3w-6.png" alt="Samsung NP3007Z-SO1RU">
     </a>
-  - (*В БУДУЩЕМ*) Ноут на рязани с эртеха 4060 и 16 гб ОЗУ
 5. Всякая переферия
   - Мышь за 800 рублей с ДНС
   - Лучпк г435
