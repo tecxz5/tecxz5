@@ -13,9 +13,6 @@
 3. Занимаюсь програмированием ботов на базе API Телеграма или Дискорда\
    [![wakatime](https://wakatime.com/badge/user/2b023763-aaa7-4bf9-818a-d496410873ea.svg)](https://wakatime.com/@2b023763-aaa7-4bf9-818a-d496410873ea)  (здесь так мало часов, так как я узнал об этом говне под конец курса по пайтону)
 4. Устанавливаю линуксы на картошки
-5. Прошиваю телефоны и делаю:  
-   <img src="https://cdn.discordapp.com/attachments/1238091426139603065/1258054200634642493/IMG_20240703_163749.jpg?ex=6686a5c6&is=66855446&hm=f07bc459d044468470b52488d6de71f58ab08681786b8414d8879758525bbd27&" width="531.1
-" height="400">
 ## Чем пользуюсь?
 1. Операционки:
   - Винда
@@ -35,6 +32,10 @@
   - Ноут на i3 с 8 гб ОЗУ (ходят слухи что можно поставить 16 гб)  
     <a target="_blank" href="https://valid.x86.fr/yyvt3w">
     <img src="https://valid.x86.fr/cache/banner/yyvt3w-6.png" alt="Samsung NP3007Z-SO1RU">
+    </a>
+  - Ноут на i5 с 32 гб ОЗУ и эртеха 3060
+    <a target="_blank" href="">
+    <img src="" alt="Gigabyte G5">
     </a>
 5. Всякая переферия
   - Лучпк г304
