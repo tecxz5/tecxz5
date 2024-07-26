@@ -34,8 +34,8 @@
     <img src="https://valid.x86.fr/cache/banner/yyvt3w-6.png" alt="Samsung NP3007Z-SO1RU">
     </a>
   - Ноут на i5 с 32 гб ОЗУ и эртеха 3060
-    <a target="_blank" href="">
-    <img src="" alt="Gigabyte G5">
+    <a target="_blank" href="https://valid.x86.fr/w5t9yu">
+    <img src="https://valid.x86.fr/cache/banner/w5t9yu-6.png" alt="Gigabyte G5">
     </a>
 5. Всякая переферия
   - Лучпк г304
