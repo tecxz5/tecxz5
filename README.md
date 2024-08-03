@@ -2,10 +2,6 @@
 ## кто я
 Тимоха
 #### Извистен также:
-- Тимоха линуксоид
-- Тимоха ls
-- Тимофей
-- тимоха[158](https://www.consultant.ru/document/cons_doc_LAW_10699/57b5c7b83fcd2cf40cabe2042f2d8f04ed6875ad/ "я не уголовник")
 - t5
 ## Чем занимаюсь
 1. Задрочу в Стардью Валлей и Гарис мод
@@ -29,15 +25,16 @@
     <a target="_blank" href="https://valid.x86.fr/t00aa2">
     <img src="https://valid.x86.fr/cache/banner/t00aa2-6.png" alt="Toshiba Satellite C850-BQK">
     </a>
-  - Ноут на i3 с 8 гб ОЗУ (ходят слухи что можно поставить 16 гб)  
-    <a target="_blank" href="https://valid.x86.fr/yyvt3w">
-    <img src="https://valid.x86.fr/cache/banner/yyvt3w-6.png" alt="Samsung NP3007Z-SO1RU">
-    </a>
   - Ноут на i5 с 32 гб ОЗУ и эртеха 3060  
     <a target="_blank" href="https://valid.x86.fr/w5t9yu">
     <img src="https://valid.x86.fr/cache/banner/w5t9yu-6.png" alt="Gigabyte G5">
     </a>
-5. Всякая переферия
+5. Прошлые рабочие машины
+  - Ноут на i3 с 8 гб ОЗУ (ходят слухи что можно поставить 16 гб) и ссд (теперь у бати, оба охерели от скорости)  
+    <a target="_blank" href="https://valid.x86.fr/yyvt3w">
+    <img src="https://valid.x86.fr/cache/banner/yyvt3w-6.png" alt="Samsung NP3007Z-SO1RU">
+    </a>
+6. Всякая переферия
   - Лучпк г304
   - Лучпк г435
   - Юсб хаб:
@@ -45,7 +42,7 @@
     - Приемник для г435
     - (*Не всегда*) Антенна для вайфая
     - (*Не всегда*) Проводной контроллер от Свича
- 6. Жертвы **линукса**
+ 7. Жертвы **линукса**
   - Мамин старый ноут на пентиуме и 4гб ОЗУ (*моя прошлая рабочая машина*)
   - Батин ненужный ноут на атоме и 2гб ОЗУ (*моя первая рабочая машина*)
   - Ноут **МСИ** кента
