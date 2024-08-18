@@ -31,8 +31,8 @@
     </a>
 5. Прошлые рабочие машины
   - Ноут на i3 с 8 гб ОЗУ (ходят слухи что можно поставить 16 гб) и ссд (теперь у бати, оба охерели от скорости)  
-    <a target="_blank" href="https://valid.x86.fr/yyvt3w">
-    <img src="https://valid.x86.fr/cache/banner/yyvt3w-6.png" alt="Samsung NP3007Z-SO1RU">
+    <a target="_blank" href="https://valid.x86.fr/3u3syw">
+    <img src="https://valid.x86.fr/cache/banner/3u3syw-6.png" alt="Samsung NP3007Z-SO1RU">
     </a>
 6. Всякая переферия
   - Лучпк г304
