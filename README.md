@@ -1,14 +1,14 @@
-# салам всем
-## кто я
-Тимоха
-#### Известен также:
-- t5
+<h1 align="center">драсте всем</h1>
+<p align="center">Звать меня Тимоха, также изветсен как t5</p>
+<img src="0000-0359.gif" alt="крутяшка" width=100%>
+
 ## Чем занимаюсь
 1. Задрочу в Стардью Валлей и Гарис мод
 2. Пишу сайты
 3. Занимаюсь програмированием ботов на базе API Телеграма или Дискорда\
    [![wakatime](https://wakatime.com/badge/user/2b023763-aaa7-4bf9-818a-d496410873ea.svg)](https://wakatime.com/@2b023763-aaa7-4bf9-818a-d496410873ea)  (здесь так мало часов, так как я узнал об этом говне под конец курса по пайтону)
 4. Устанавливаю линуксы на картошки
+5. Пытаюсь освоить блендер (вроде получается)
 ## Чем пользуюсь?
 1. Операционки:
   - Винда
@@ -21,16 +21,16 @@
   - Еще одна механика на красных свичах за 2к рублей 
   - Клавиатура ноутбука
 4. Рабочие машины
-  - Ноут на пентиуме с 8 гб ОЗУ  
-    <a target="_blank" href="https://valid.x86.fr/t00aa2">
-    <img src="https://valid.x86.fr/cache/banner/t00aa2-6.png" alt="Toshiba Satellite C850-BQK">
-    </a>
   - Ноут на i5 с 32 гб ОЗУ и эртеха 3060  
     <a target="_blank" href="https://valid.x86.fr/w5t9yu">
     <img src="https://valid.x86.fr/cache/banner/w5t9yu-6.png" alt="Gigabyte G5">
     </a>
 5. Прошлые рабочие машины
-  - Ноут на i3 с 8 гб ОЗУ (ходят слухи что можно поставить 16 гб) и ссд (теперь у бати, оба охерели от скорости)  
+- Ноут на пентиуме с 8 гб ОЗУ  
+    <a target="_blank" href="https://valid.x86.fr/t00aa2">
+    <img src="https://valid.x86.fr/cache/banner/t00aa2-6.png" alt="Toshiba Satellite C850-BQK">
+    </a>
+- Ноут на i3 с 8 гб ОЗУ (ходят слухи что можно поставить 16 гб) и ссд (теперь у бати, оба охерели от скорости)  
     <a target="_blank" href="https://valid.x86.fr/3u3syw">
     <img src="https://valid.x86.fr/cache/banner/3u3syw-6.png" alt="Samsung NP3007Z-SO1RU">
     </a>
