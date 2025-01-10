@@ -23,15 +23,15 @@
   - Клавиатура ноутбука
 4. Рабочие машины
   - Ноут на i5 с 32 гб ОЗУ и эртеха 3060  
-    <a target="_blank" href="https://valid.x86.fr/w5t9yu">
-    <img src="https://valid.x86.fr/cache/banner/w5t9yu-6.png" alt="Gigabyte G5">
+    <a target="_blank" href="https://valid.x86.fr/i16f6r">
+    <img src="https://valid.x86.fr/cache/banner/i16f6r-6.png" alt="Gigabyte G5">
     </a>
 5. Прошлые рабочие машины
-- Ноут на пентиуме с 8 гб ОЗУ  
+- Ноут на пентиуме с 8 гб ОЗУ (ждёт своего часа и лишние 2к рублей на ссд)
     <a target="_blank" href="https://valid.x86.fr/t00aa2">
     <img src="https://valid.x86.fr/cache/banner/t00aa2-6.png" alt="Toshiba Satellite C850-BQK">
     </a>
-- Ноут на i3 с 8 гб ОЗУ (ходят слухи что можно поставить 16 гб) и ссд (теперь у бати, оба охерели от скорости)  
+- Ноут на i3 с 8 гб ОЗУ и ссд (отдал бате)  
     <a target="_blank" href="https://valid.x86.fr/3u3syw">
     <img src="https://valid.x86.fr/cache/banner/3u3syw-6.png" alt="Samsung NP3007Z-SO1RU">
     </a>
