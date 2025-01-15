@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d7b46d7b-4418-4c2f-b869-2efb289d937e)<h1 align="center">драсте всем</h1>
+<h1 align="center">драсте всем</h1>
 <p align="center">Звать меня Тимоха, также изветсен как t5</p>
 <img src="t5.gif" alt="крутая крутяшка" width=100%
 
