@@ -1,4 +1,4 @@
-<h1 align="center">драсте всем</h1>
+![image](https://github.com/user-attachments/assets/d7b46d7b-4418-4c2f-b869-2efb289d937e)<h1 align="center">драсте всем</h1>
 <p align="center">Звать меня Тимоха, также изветсен как t5</p>
 <img src="t5.gif" alt="крутая крутяшка" width=100%
 
@@ -52,4 +52,4 @@
 # какие языки для общения доступны?
 **русский** и чутка **английский**
 
-<img src="copyright.gif" width=3%>
+<img src="copyright.gif" width=5% align="center">
