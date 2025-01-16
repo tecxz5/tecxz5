@@ -52,4 +52,6 @@
 # какие языки для общения доступны?
 **русский** и чутка **английский**
 
-<img src="copyright.gif" width=5%>
+<p align="center">
+   <img src="copyright.gif" width=5%>
+</p>
