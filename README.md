@@ -8,6 +8,7 @@
    <h1 align="center">О себе</h1>
    <ol>
       <li><a href="https://wakatime.com/@2b023763-aaa7-4bf9-818a-d496410873ea"><img src="https://wakatime.com/badge/user/2b023763-aaa7-4bf9-818a-d496410873ea.svg" alt="Total time coded since May 19 2024" /></a></li>
+      <li><a href="https://github.com/anuraghazra/github-readme-stats"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tecxz5&theme=dark&layout=donut'></a></li>
       <li>15 лет</li>
       <li>Родной язык: <b>русский</b>, английским в совершенстве не владею</li>
    </ol>
