@@ -28,16 +28,6 @@
 <div>
    <h1 align="center">Чем пользуюсь?</h1>
    <ol>
-      <li>ОС:</li>
-      <ul>
-         <li>Винда</li>
-         <li><i>Казуальные</i> дистрибутивы линукса (Убунту, Дебиан)</li>
-      </ul>
-      <li>IDE:</li>
-      <ul>
-         <li>PyCharm</li>
-         <li>VSCode</li>
-      </ul>
       <li>Рабочий ноут:</li>
       <ul>
          <li>Gigabyte G5 KC <br>
