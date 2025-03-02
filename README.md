@@ -36,19 +36,6 @@
        </a>
          </li>
       </ul>
-      <li>Прошлые ноуты:</li>
-         <ul>
-            <li>Toshiba Satellite C850-BQK<br>
-       <a target="_blank" href="https://valid.x86.fr/t00aa2">
-       <img src="https://valid.x86.fr/cache/banner/t00aa2-6.png" alt="Toshiba Satellite C850-BQK">
-             </a>
-            </li>
-            <li>Samsung NP300E7Z-S01RU<br>
-               <a target="_blank" href="https://valid.x86.fr/3u3syw">
-                <img src="https://valid.x86.fr/cache/banner/3u3syw-6.png" alt="Samsung NP3007Z-SO1RU">
-               </a>
-            </li>
-         </ul>
    </ol>
 </div>
 <hr>
