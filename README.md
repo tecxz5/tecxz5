@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Это я!</h1>
    <p>Зовут меня t5 (производное от tecxz5), ну или же Тимоха</p>
-   <img src="t5.gif" width=100%>
+   <img src="t5.webp" width=100%>
 </div>
    <hr>
 <div>
