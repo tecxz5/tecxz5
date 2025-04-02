@@ -11,6 +11,7 @@
       <li><a href="https://github.com/anuraghazra/github-readme-stats"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tecxz5&theme=dark&layout=donut'></a></li>
       <li>15 лет</li>
       <li>Родной язык: <b>русский</b>, английским в совершенстве не владею</li>
+      <li>Помогаю с переводами на русский (Helping with translations from English to Russian)</li>
    </ol>
 </div>
 <hr>
