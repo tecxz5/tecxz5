@@ -27,14 +27,14 @@
 </div>
 <hr>
 <div>
-      <li>Рабочий ноут:</li>
-      <ul>
-         <li>Gigabyte G5 KC <br>
-       <a target="_blank" href="https://valid.x86.fr/i16f6r">
-       <img src="https://valid.x86.fr/cache/banner/i16f6r-6.png" alt="Gigabyte G5">
+   <h1 align="center">Чем пользуюсь?</h1>
+   <ul>
+      <li>Gigabyte G5 KC <br>
+          <a target="_blank" href="https://valid.x86.fr/i16f6r">
+          <img src="https://valid.x86.fr/cache/banner/i16f6r-6.png" alt="Gigabyte G5">
        </a>
-         </li>
-      </ul>
+      </li>
+   </ul>
 </div>
 <hr>
 <div align="center">
