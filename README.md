@@ -27,8 +27,6 @@
 </div>
 <hr>
 <div>
-   <h1 align="center">Чем пользуюсь?</h1>
-   <ol>
       <li>Рабочий ноут:</li>
       <ul>
          <li>Gigabyte G5 KC <br>
@@ -37,7 +35,6 @@
        </a>
          </li>
       </ul>
-   </ol>
 </div>
 <hr>
 <div align="center">
