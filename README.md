@@ -30,8 +30,8 @@
    <h1 align="center">What do I use?</h1>
    <ul>
       <li>Gigabyte G5 KC <br>
-          <a target="_blank" href="https://valid.x86.fr/i16f6r">
-          <img src="https://valid.x86.fr/cache/banner/i16f6r-6.png" alt="Gigabyte G5">
+          <a target="_blank" href="https://valid.x86.fr/t1q2pm">
+          <img src="https://valid.x86.fr/cache/banner/t1q2pm-6.png" alt="Gigabyte G5">
        </a>
       </li>
    </ul>
