@@ -10,7 +10,7 @@
    <ol>
       <li><a href="https://wakatime.com/@2b023763-aaa7-4bf9-818a-d496410873ea"><img src="https://wakatime.com/badge/user/2b023763-aaa7-4bf9-818a-d496410873ea.svg" alt="Total time coded since May 19 2024" /></a></li>
       <li><a href="https://github.com/anuraghazra/github-readme-stats"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tecxz5&theme=dark&layout=donut'></a></li>
-      <li>15 y/o</li>
+      <li>16 y/o</li>
       <li>Native language: <b>russian</b>, don`t know English very well (this readme is half-translated by Google and Yandex translators)</li>
       <li>Helping with translations from English to Russian</li>
    </ol>
