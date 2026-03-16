@@ -3,7 +3,6 @@
    <h1>It`s me!</h1>
    <p>My name is t5 (derivative from tecxz5), or Tim (Timofey, idk)</p>
 </div>
-   <hr>
 <div>
    <h1 align="center">About me</h1>
    <ol>
