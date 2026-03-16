@@ -2,7 +2,6 @@
    <p>[<u>EN</u>] [<a href="ru.md">RU</a>]</p>
    <h1>It`s me!</h1>
    <p>My name is t5 (derivative from tecxz5), or Tim (Timofey, idk)</p>
-   <img src="t5.webp" width=100%>
 </div>
    <hr>
 <div>
