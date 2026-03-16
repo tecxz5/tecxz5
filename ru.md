@@ -2,9 +2,7 @@
    <p>[<a href="README.md">EN</a>] [<u>RU</u>]</p>
    <h1>Это я!</h1>
    <p>Зовут меня t5 (производное от tecxz5), ну или же Тимоха</p>
-   <img src="t5.webp" width=100%>
 </div>
-   <hr>
 <div>
    <h1 align="center">О себе</h1>
    <ol>
