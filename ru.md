@@ -28,7 +28,7 @@
    <h1 align="center">Чем пользуюсь?</h1>
    <ul>
       <li>Gigabyte G5 KC <br>
-          <a target="_blank" href="https://valid.x86.fr/t1q2pm">
+          <a target="_blank" href="https://valid.x86.fr/u16xj1">
           <img src="https://valid.x86.fr/cache/banner/t1q2pm-6.png" alt="Gigabyte G5">
        </a>
       </li>
