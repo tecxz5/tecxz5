@@ -35,5 +35,5 @@
 </div>
 <hr>
 <div align="center">
-   <img src=copyright.gif width=10%>
+   <img src=copyright.png width=10%>
 </div>
